@@ -1,0 +1,16 @@
+# Core ML libraries
+torch==2.2.2
+torchvision==0.17.2
+tensorflow==2.16.1
+keras==3.3.3
+
+# Image & GUI
+opencv-python==4.9.0.80
+Pillow==10.3.0
+scikit-learn==1.5.0
+matplotlib==3.8.4  # Optional for debugging color clustering
+
+# Utility
+numpy==1.26.4
+
+# GUI (Tkinter comes preinstalled with Python on Windows)
